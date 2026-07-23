@@ -6,13 +6,11 @@ I am a Full-Stack Developer with 2 years of experience, specializing in **Java (
 
    <p align="left">
       <a href="https://www.linkedin.com/in/hamza-maouhoub-204242260">
-         <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-      <a href="https://github.com/Hamza-cod?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Hamza-cod?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Hamza-cod?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Hamza-cod?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
       <a href="mailto:hamzamaouhoub4@email.com">
-         <img alt="Email" title="Contact Me" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+         <img alt="Email" title="Contact Me" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
    </p>
 
 ---
